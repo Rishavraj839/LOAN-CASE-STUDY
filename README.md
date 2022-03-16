@@ -9,7 +9,7 @@ risky applicants) at a higher interest rate, etc. This will ensure that the cons
 the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
 
 
-two main points - 
+#### Problem statements - 
 
 If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
 
