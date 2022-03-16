@@ -9,11 +9,20 @@ risky applicants) at a higher interest rate, etc. This will ensure that the cons
 the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
 
 
+two main points - 
+
+If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+
+If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
+
+
+The company wants to understand the driving factors (or driver variables) behind the loan default. i.e the variables which are strong in loan default.
+
 
 
 ## Software Used
 
-
+jupyter notebook 
 
 ## Dataset Used
 
@@ -29,5 +38,12 @@ The data is about whether a client has payment difficulties.
 
 
 ## notebook
+
+https://github.com/Rishavraj839/LOAN-CASE-STUDY/blob/main/bank-loan-study-exploratory-data-analysis.ipynb
+
+
 ## copyright / data used from
 
+## kaggle
+
+## trainity
