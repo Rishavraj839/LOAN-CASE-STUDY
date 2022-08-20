@@ -41,6 +41,10 @@ The data is about whether a client has payment difficulties.
 
 https://github.com/Rishavraj839/LOAN-CASE-STUDY/blob/main/bank-loan-study-exploratory-data-analysis.ipynb
 
+or
+
+https://nbviewer.org/github/Rishavraj839/LOAN-CASE-STUDY/blob/main/bank-loan-study-exploratory-data-analysis.ipynb
+
 
 ## copyright / data used from
 
